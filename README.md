@@ -33,7 +33,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/yasara senevirathne">
+        <a style="margin-left: 10px;"  target="_blank" href="[https://linkedin.com/in/yasara senevirathne](https://www.linkedin.com/in/yasara-senevirathne-3873462b3/)">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yasara senevirathne">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>

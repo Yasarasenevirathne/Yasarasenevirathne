@@ -68,9 +68,11 @@
 </p>
 <br>
 <h3 align="center">
+	 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	<br><br>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">GitHub Status</h3>
 
-  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 <div align="center">
 <a href="https://github.com/Yasarasenevirathne"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yasarasenevirathne&theme=algolia&hide_border=true"  width="520" alt="Yasarasenevirathne"/></a>
   </div>

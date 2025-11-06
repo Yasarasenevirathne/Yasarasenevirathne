@@ -8,18 +8,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hii+,++I'm+++Yasara++&hearts;++;Dedicated++IT++Student;Love+to+learn+new+stuffs.."></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasarasenevirathne&label=Profile%20views&color=0e75b6&style=flat" alt="yasarasenevirathne" /> </p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<div align="left">
-  
+
+<!--
+<div align="center"> 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
 </div>
-<br>
-
-<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasarasenevirathne" alt="yasarasenevirathne" /></a> </p>
+-->
 
-<br>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">About Me</h3>
 
 - 👨‍💻 Undergraduate in Computing & Information System **| Sabaragamuwa University of Sri Lanka**
 - 🌱 I’m currently learning **React,Angular,Python,Django**

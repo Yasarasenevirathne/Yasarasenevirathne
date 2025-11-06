@@ -15,15 +15,17 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
 </div>
 <br>
+
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasarasenevirathne" alt="yasarasenevirathne" /></a> </p>
+
+<br>
+
 - 👨‍💻 Undergraduate in Computing & Information System **| Sabaragamuwa University of Sri Lanka**
 - 🌱 I’m currently learning **React,Angular,Python,Django**
 - 🔭 I’m currently working on **my small projects**
 - 👯 I’m looking to collaborate on **your open source projects**
 - 💬 Ask me about **Web Development**
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasarasenevirathne" alt="yasarasenevirathne" /></a> </p>
-
-<br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me </h3>
  

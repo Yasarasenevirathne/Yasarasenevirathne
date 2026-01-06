@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hii+,++I'm+++Yasara++&hearts;++;Dedicated++IT++Student;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hii+,++I'm+++Yasara++&hearts;++;Welcome++To++My++Profile;Love+to+learn+new+stuffs..;Web++Developer;UI++UX++Designer"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasarasenevirathne&label=Profile%20views&color=0e75b6&style=flat" alt="yasarasenevirathne" /> </p>
 

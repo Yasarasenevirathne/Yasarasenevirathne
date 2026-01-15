@@ -49,7 +49,7 @@
 	 <a href="https://github.com/Yasarasenevirathne">
 		 <img src="https://img.icons8.com/doodle/40/000000/github--v2.png" title="Github">
 	 </a>
-	 	 <a href="https://wa.me/94771483193">
+	 	 <a href="https://wa.me/9477XXXXXXX">
 		 <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png" title="WhatsApp">
 	 </a>
       </div>

@@ -35,11 +35,20 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yasara-senevirathne-3873462b3/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" title="LinkedIn">
+		</a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yasara senevirathne">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	  <a style="margin-left: 10px;" target="_blank"  href="https://www.behance.net/yasarasenevirathne"> <img src="https://img.icons8.com/doodle/40/000000/behance--v2.png" ></a>
-	 <a href="mailto:yasarasenevirathne2000@gmail.com"><img src="https://img.icons8.com/doodle/40/000000/email--v2.png" ></a>
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" title="Instagram">
+		</a>
+	  <a style="margin-left: 10px;" target="_blank"  href="https://www.behance.net/yasarasenevirathne"> 
+		  <img src="https://img.icons8.com/doodle/40/000000/behance--v2.png" title="Behance">
+	  </a>
+	 <a href="mailto:yasarasenevirathne2000@gmail.com">
+		 <img src="https://img.icons8.com/doodle/40/000000/email--v2.png" title="Email">
+	 </a>
+	 <a href="https://wa.me/94771483193">
+		 <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png" title="WhatsApp">
+	 </a>
       </div>
 
 </p>

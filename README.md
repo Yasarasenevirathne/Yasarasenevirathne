@@ -38,9 +38,8 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" ></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yasara senevirathne">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-   <a href="mailto:yasarasenevirathne2000@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.1%"/>
-  </a>
+	  <a style="margin-left: 10px;" target="_blank"  href="https://www.behance.net/yasarasenevirathne"> <img src="https://img.icons8.com/doodle/40/000000/behance--v2.png" ></a>
+	 <a href="mailto:yasarasenevirathne2000@gmail.com"><img src="https://img.icons8.com/doodle/40/000000/email--v2.png" ></a>
       </div>
 
 </p>
